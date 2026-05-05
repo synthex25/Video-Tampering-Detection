@@ -2,6 +2,7 @@
   "name": "video-tampering-demo",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://synthex25.github.io/Video-Tampering-Detection",
   "dependencies": {
     "axios": "^1.7.9",
     "react": "^18.3.1",
@@ -28,6 +29,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
+    
   }
 }
