@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Video-Tampering-Detection/static/css/main.0f3f9844.css",
+    "main.js": "/Video-Tampering-Detection/static/js/main.53b371f8.js",
+    "index.html": "/Video-Tampering-Detection/index.html",
+    "main.0f3f9844.css.map": "/Video-Tampering-Detection/static/css/main.0f3f9844.css.map",
+    "main.53b371f8.js.map": "/Video-Tampering-Detection/static/js/main.53b371f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f3f9844.css",
+    "static/js/main.53b371f8.js"
+  ]
+}
